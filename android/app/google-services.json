@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579445356636",
+    "project_id": "ktra-1",
+    "storage_bucket": "ktra-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579445356636:android:04f12f37b1084553da0e99",
+        "android_client_info": {
+          "package_name": "com.example.ktra1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579445356636-cu1ismsvt5hlb66b6o6d75p5ika7scoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFybh2qmu8aP84L7B_8oqYoTdfumSdkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579445356636-cu1ismsvt5hlb66b6o6d75p5ika7scoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
